@@ -10,7 +10,7 @@ A multi-slice spatial omics integration method for depicting tissue complexity v
 
 ## Requirements
 
-We recommend that users install the following packages to run spCLUE.
+We recommend that users install the following packages to run SIMPLE.
 
 - anndata==0.9.2
 - annoy==1.17.3

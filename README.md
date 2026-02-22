@@ -12,21 +12,35 @@ A multi-slice spatial omics integration method for depicting tissue complexity v
 
 We recommend that users install the following packages to run spCLUE.
 
-- python==3.8.0
-- torch==1.13.1
-- numpy==1.23.5
-- scanpy==1.9.3
-- anndata==0.8.0
-- rpy2==3.4.1
-- pandas==1.5.3
-- scipy==1.10.0
-- scikit-learn==1.2.2
-- tqdm==4.64.1
-- matplotlib==3.7.0
-- seaborn==0.12.2
-- jupyter==1.0.0
-- R==4.2.0
-- mclust==6.0.0
+- anndata==0.9.2
+- annoy==1.17.3
+- gseapy==1.1.10
+- hnswlib==0.8.0
+- matplotlib==3.7.5
+- numba==0.55.2
+- numpy==1.22.4
+- pandas==2.0.3
+- POT==0.9.5
+- rpy2==3.4.5
+- scanpy==1.9.8
+- scikit-learn==1.3.2
+- scipy==1.10.1
+- seaborn==0.13.2
+- squidpy==1.2.3
+- tqdm==4.67.1
+- umap-learn==0.5.7
+- louvain==0.8.2
+- networkx == 3.1
+- more-itertools==10.5.0
+- torch==2.3.1
+- torch_cluster==1.6.3
+- torch_geometric==2.5.3
+- torch_scatter==2.1.2
+- torch_sparse==0.6.18
+
+
+
+
 
 You can install SIMPLE with **anaconda** using the following commands:
 

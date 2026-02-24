@@ -72,4 +72,4 @@ The spatial proteomics datasets of mouse spleen and mouse thymus are available a
 
 ## Contacts and bug reports
 
-Please feel free to send bug reports or questions to Yanzhe Lv: 23110850008@m.fudan.edu.cn, Prof. Shihua Zhang: zsh@amss.ac.cn and Prof. Shanfeng Zhu: zhusf@fudan.edu.cn
+Please feel free to send bug reports or questions to Yanzhe Lv: 23110850008@m.fudan.edu.cn and Prof. Shanfeng Zhu: zhusf@fudan.edu.cn

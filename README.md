@@ -53,14 +53,10 @@ pip install -r requirements.txt
 ## Tutorials
 
 Please find examples of SIMPLE applications in the tutorials folder, where jupyter notebooks are provided.
-Tutorial 1: Integrating 4 adjacent DLPFC slices (10x Visium)
-Tutorial 2: Integrating all 12 DLPFC slices from 3 adult samples (10x Visium)
-Tutorial 3: Integrating slices across sequencing platforms (Slide-seqV2 and Stereo-seq)
-Tutorial 4: Integrating 4 mouse embryo slices sampled at the time stages of E9.5, E10.5, E11.5, and E12.5 (Stereo-seq)
-Tutorial 5: Spatial domain guided 3D slices alignment (Slide-seq)
-
-
-
+- dlpfc_tutorial: Integration of SIMPLE on DLPFC dataset
+- merfish_tutorial: Integration of SIMPLE on MERFISH mouse hypothalamus dataset
+- starmap_tutorial: Integration of SIMPLE on STARmap mPFC dataset
+- protein_tutorial: Integration of SIMPLE on spatial proteomics datasets
 
 **NOTE:** Please update the data paths before running the code.
 

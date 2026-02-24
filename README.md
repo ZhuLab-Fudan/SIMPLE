@@ -60,6 +60,10 @@ Please find examples of SIMPLE applications in the tutorials folder, where jupyt
 
 The example spatial transcriptomics datasets can be downloaded with the links below.
 
+## Contacts and bug reports
+
+Please feel free to send bug reports or questions to Yanzhe Lv: 23110850008@m.fudan.edu.cn, Prof. Shihua Zhang: zsh@amss.ac.cn and Prof. Shanfeng Zhu: zhusf@fudan.edu.cn
+
 The human DLPFC dataset is available at the spatialLIBD package (http://spatial.libd.org/spatialLIBD).
 
 The mouse hypothalamus dataset by MERFISH and the mouse medial prefrontal cortex dataset by STARmap are available at https://github.com/zhengli09/BASS-Analysis/tree/master/data. 

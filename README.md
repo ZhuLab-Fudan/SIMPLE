@@ -15,30 +15,28 @@ We recommend that users install the following packages to run SIMPLE.
 - anndata==0.9.2
 - annoy==1.17.3
 - hnswlib==0.8.0
+- louvain==0.8.2
 - matplotlib==3.7.5
+- more-itertools==10.5.0
+- networkx==3.1
 - numba==0.55.2
 - numpy==1.22.4
 - pandas==2.0.3
 - POT==0.9.5
-- rpy2==3.4.5
+- rpy2==3.5.11
 - scanpy==1.9.8
 - scikit-learn==1.3.2
 - scipy==1.10.1
 - seaborn==0.13.2
 - squidpy==1.2.3
-- tqdm==4.67.1
-- umap-learn==0.5.7
-- louvain==0.8.2
-- networkx == 3.1
-- more-itertools==10.5.0
 - torch==2.3.1
+- torch_geometric==2.6.1
 - torch_cluster==1.6.3
-- torch_geometric==2.5.3
 - torch_scatter==2.1.2
 - torch_sparse==0.6.18
-
-
-
+- torch_spline_conv==1.2.2
+- tqdm==4.67.1
+- umap-learn==0.5.7
 
 
 You can install SIMPLE with **anaconda** using the following commands:
